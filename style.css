@@ -1,0 +1,172 @@
+body{
+    font-family: Helvetica, Arial, sans-serif;
+    color: black;
+}
+
+a.nav-link{
+    font-size: 14px;
+    color: black;
+    text-decoration: none;
+    padding: 3%;
+}
+
+button.btn-success{
+    background-color: #5CB85F;
+    border-color: #5CB85F;
+    font-weight: bold;
+    
+}
+
+.box-shape{
+    height: 34px;
+    width: 100px;
+    background-color: #0D28A6;
+    border-radius: 5px;
+}
+
+img.check-box{
+    padding: 10px;
+}
+
+.section-2{
+    padding-left: 70px;
+}
+
+/*Section 3 Card*/
+.card-pic{
+    width: 32px;
+    height: 32px;
+    margin-top: 24px;
+    margin-left: 24px;
+}
+
+.card-title{
+    padding-top: 6px;
+    font-weight: bold;
+}
+
+.card-description{
+    padding-top: 6px;
+    padding-bottom: 5px;
+    font-size: 14px;
+  
+}
+
+.card{
+    border-radius: 8px;
+    border-width: 1px;
+}
+
+
+h2{
+    font-weight: bold;
+}
+
+
+/*Section 4 Carousel*/
+
+
+#carousel-body{
+    height: 16.875rem;
+    width: 50rem;
+    background-color: #F1F3FF;
+    border-radius: 7px;
+    padding-top: 5%;
+    
+}
+
+.carousel-control-prev, .carousel-control-next{
+    position: static;
+    margin-top: 3%;
+    width: 3%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+
+
+
+/*Section 5*/
+.section-5{
+    background-color: #0D28A6;
+    border-radius: 13px;
+    margin-top: 11%;
+    color: white;
+    width: 1168px;
+    height: 326px;
+}
+
+.h2-section-5{
+    padding-top: 5%;
+    padding-bottom: 1%;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.p-section-5{
+    padding-top: 16px;
+    padding-bottom: 4%;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    font-size: 14px;
+    line-height: 20px;
+    color: white;
+}
+
+.btn-section-5{
+    padding-bottom: 64px;
+    border-radius: 2px;
+}
+
+/*Section 6 */
+h4{
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+
+.accordion-button:not(.collapsed){
+    color: black;
+    background-color: white;
+    box-shadow: inset;
+    
+}
+
+.accordion-button{
+    border: 1px solid #d4d4d4;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.accordion-body{
+    border: 1px solid #d4d4d4;
+    border-top: none;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+/*Footer*/
+footer{
+    margin-top: 150px;
+    margin-bottom: 188px;
+}
+
+.foot-link{
+    text-decoration: none;
+    color: black;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.foot-list{
+    padding-bottom: 16px;
+    margin-left: 15%;
+}
+
+.foot-logo{
+    padding-left: 5%;
+}
+
